@@ -7,7 +7,7 @@ To save power in my small office, if no movement is detected for 30 minutes the 
 These actions are logged in a CSV file to calculate savings over time which also account for the Raspberry Pis power consumption 
 
 ## Installation
-I use poetry to manage the packages, you will need to install and poetry and make sure its in path before starting. You can download peotry for here.. https://python-poetry.org/
+I use poetry to manage the packages, you will need to install poetry and make sure it's in path before starting. You can download poetry from here.. https://python-poetry.org/
 
-Once potry is installed and you have cloned the repo, create a shell 'poetry shell' and install the packages ' poetry install'
+Once poetry is installed and you have cloned the repo, create a shell 'poetry shell' and install the packages ' poetry install'
 

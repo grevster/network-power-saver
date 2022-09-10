@@ -11,3 +11,6 @@ I use poetry to manage the packages, you will need to install poetry and make su
 
 Once poetry is installed and you have cloned the repo, create a shell 'poetry shell' and install the packages ' poetry install'
 
+## Pins
+
+![alt text](https://github.com/grevster/network-power-saver/blob/main/images/pi-pins.jpg?raw=true)

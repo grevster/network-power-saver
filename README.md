@@ -2,7 +2,9 @@
 
 This is a small project to detect movement and on detection run an action. 
 
-To save power in my small office, if no movement is detected for 30 minutes the monitor smart plugs (connecting to wall screens and printers) and Access-points powered via POE on a Cisco Swicth and swicthed off. 
+To save power in my small office, if no movement is detected for 30 minutes the monitor smart plugs (connecting to wall screens and printers) and Access-points powered via POE on a Cisco Swicth are swicthed off / disabled. on movement detected these are powered on.
+
+!Device list
 
 These actions are logged in a CSV file to calculate savings over time which also account for the Raspberry Pis power consumption 
 

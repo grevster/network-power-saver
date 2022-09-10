@@ -1,10 +1,10 @@
-Description=Opticore Green Team Power Saver
+Description=Network Power Saver
 Wants=network.target
 After=syslog.target network-online.target
 
 [Service]
 Type=simple
-ExecStart=/usr/bin/python3 /home/pi/sensor/Motion_sensor/sensor.py
+ExecStart=      #command to run python script, make sure packages are availble to shell.
 Restart=on-failure
 RestartSec=10
 KillMode=process
